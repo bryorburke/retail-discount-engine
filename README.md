@@ -1,0 +1,1 @@
+This code explores how to apply discounts to certain products and certain types of customers
